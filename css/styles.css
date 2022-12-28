@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Unbounded', cursive;
+}
+
+h1 {
+    font-size: 562%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #39A2DB;
+}
+
+h2 {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#39A2DB;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E
+}
+
+.top-container {
+    background-color: #053742;
+    position: relative;
+    padding-top: 100px;    
+}
+
+a {
+    color:#11999E
+}
+
+.middle-container {
+     
+}
+
+.bottom-container {
+    background-color: #053742;
+}
+
+.react-gif {
+    width: 15%;
+    position: absolute;
+   right: 100px;
+   bottom: 450px;
+}
+
+.python-gif {
+    width: 15%;
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+} 
+
+.tech-pic{
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+}
+
+.tent-img {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+.codecoffee {
+    width: 25%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
